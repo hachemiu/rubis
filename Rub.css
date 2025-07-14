@@ -1,0 +1,30 @@
+body{
+background-color: rgb(158, 201, 221);
+text-align: center;
+
+}
+
+button{
+    font-weight: bold;
+    font-size:larger;
+    border-radius: 50px;
+    margin-bottom: 150px;
+    cursor:grab;
+    width: 200px;
+
+
+}
+
+#Rubis{
+    border-radius:100%;
+    font-size: large;
+}
+
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: red;
+    font-weight: bold;
+    font-size: large;
+}
+   
+
